@@ -1,0 +1,14 @@
+Cedar Apple Rust
+Apple Healthy
+Corn Common Rust
+Corn Healthy
+Pepper bell Bacterial spot
+Pepper bell healthy
+Potato Early blight
+Potato Healthy
+Potato Late blight
+Strawberry Healthy
+Strawberry Leaf scorch
+Tomato Early blight
+Tomato Healthy
+Tomato Late blight
